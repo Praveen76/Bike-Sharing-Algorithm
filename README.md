@@ -32,19 +32,20 @@ Welcome to the "Bike-Sharing-Algorithm" repository! This project utilizes GBM (G
 
 ```bash
 # Example installation steps
-git clone https://github.com/your-username/Bike-Sharing-Algorithm.git
+git clone https://github.com/Praveen76/Bike-Sharing-Algorithm.git
 cd Bike-Sharing-Algorithm
 ```
 
-
 ## Contributing
 
-If you'd like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+If you have a Data Science mini-project that you'd like to share, please follow the guidelines in [CONTRIBUTING.md](https://github.com/Praveen76/Data-Science-Mini-Projects/blob/main/contributing.md).
+
+## Code of Conduct
+Please adhere to our [Code of Conduct](https://github.com/Praveen76/Data-Science-Mini-Projects/blob/main/CODE_OF_CONDUCT.md) in all your interactions with the project.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
 
 ## Contact
 
